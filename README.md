@@ -38,7 +38,7 @@
 
 ## Deployed Link
 
-* [See Live Portfolio](https://andresliu22.github.io/updated-portfolio/)
+* [See Live Portfolio](https://andresliu22.github.io/updated-portfolio-2/)
 
 ## Author
 
