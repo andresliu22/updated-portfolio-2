@@ -20,11 +20,15 @@ Repo.init(
             type: DataTypes.STRING,
             allowNull: false,
         },
-        url_link: {
+        url_github: {
             type: DataTypes.STRING,
             allowNull: false,
         },
         url_image: {
+            type: DataTypes.STRING,
+            allowNull: false,
+        },
+        url_deploy_link: {
             type: DataTypes.STRING,
             allowNull: false,
         }

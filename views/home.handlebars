@@ -1,0 +1,30 @@
+<section id="work" class="section work">
+    <h2>My Work</h2>
+    <article id="work-repos">
+        {{#each repos as |repo|}}
+        <div class="project">
+            <header>
+                <a href="{{repo.url_github}}" target="_blank">{{repo.name}}</a>
+            </header>
+            <a href="{{repo.url_deploy_link}}" target="_blank">
+                <div class="image-div">
+                    <img src="{{repo.url_image}}" alt="{{repo.url_name}}">
+                </div>
+            </a>
+        </div>
+        {{/each}}
+    </article>
+</section>
+<section id="skills" class="section skills">
+    <h2>Skills</h2>
+    <article id="work-skills">
+        {{#each skills as |skill|}}
+        <div class="skill">
+            <img src="{{skill.url_image}}" alt="{{skill.name}}">
+        </div>
+        {{/each}}
+    </article>
+</section>
+
+<script src="./js/repo.js"></script>
+<script src="./js/skill.js"></script>
