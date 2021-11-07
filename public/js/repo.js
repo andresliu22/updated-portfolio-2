@@ -16,8 +16,17 @@ const getRepos = async () => {
                 const url_name = repos[i].name;
                 const url_github = repos[i].html_url;
                 const url_image =`https://raw.githubusercontent.com/andresliu22/${repos[i].name}/main/assets/images/site-img.PNG`;
-                const url_deploy_link =`https://andresliu22.github.io/${repos[i].name}`;
-
+                
+                if (repos[i].name === "haunted-forum") {
+                    const url_deploy_link = "warm-springs-18820.herokuapp.com/";
+                } else if (repo[i].name === "tech-blog") {
+                    const url_deploy_link = "https://andresliu-tech-blog.herokuapp.com/"
+                } else if (repo[i].name === "note-taker") {
+                    const url_deploy_link = "https://andresliu-note-taker.herokuapp.com/"
+                } else {
+                    const url_deploy_link =`https://andresliu22.github.io/${repos[i].name}`;
+                }
+                
                 const response = await fetch(`/api/repos`, {
                     method: 'POST',
                     body: JSON.stringify({ name, url_name, url_github, url_image, url_deploy_link }),
