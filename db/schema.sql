@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS repo_db;
+CREATE DATABASE repo_db;
+USE repo_db;
