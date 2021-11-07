@@ -2,7 +2,7 @@
 
 ## About me
 
-* I am a Full-stack Web Developer. I'm proactive, self-taught and a quick learner and have the key soft skills needed to succeed: great communication, excellent teamwork and an outstanding leadership.
+I am a Full-stack Web Developer. I'm proactive, self-taught and a quick learner and have the key soft skills needed to succeed: great communication, excellent teamwork and an outstanding leadership.
 
 ## Site Picture
 
@@ -36,7 +36,15 @@
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
-* [JQuery](https://jquery.com/)
+* [Node.js](https://nodejs.org/en/)
+* [NPM](https://docs.npmjs.com/)
+* [Express](https://expressjs.com/)
+* [MySQL](https://www.mysql.com/)
+* [Dotenv](https://www.npmjs.com/package/dotenv)
+* [Sequelize](https://sequelize.org/)
+* [BcryptJS](https://www.npmjs.com/package/bcryptjs)
+* [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
+* [Express-Session](https://www.npmjs.com/package/express-session)
 
 ## Deployed Link
 
