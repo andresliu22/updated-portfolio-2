@@ -43,4 +43,4 @@ Repo.init(
 
 );
 
-module.exports = Repo
+module.exports = Repo;

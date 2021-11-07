@@ -31,4 +31,4 @@ Skill.init(
 
 );
 
-module.exports = Skill
+module.exports = Skill;
