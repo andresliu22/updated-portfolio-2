@@ -48,7 +48,7 @@ I am a Full-stack Web Developer. I'm proactive, self-taught and a quick learner 
 
 ## Deployed Link
 
-* [See Live Portfolio](https://andresliu22.github.io/updated-portfolio-2/)
+* [See Live Portfolio](https://andresliu-updated-portfolio.herokuapp.com/)
 
 ## Author
 
