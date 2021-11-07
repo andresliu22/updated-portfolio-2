@@ -14,7 +14,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-router.get('/seeds', async (req, res) => {
+router.get('/seeds', isAlreadyGenerated, async (req, res) => {
     try {
         res.render('seeds');
     } catch (err) {
