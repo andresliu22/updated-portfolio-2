@@ -1,4 +1,4 @@
-# Hi, my name is Andres Liu and this is my portfolio!
+# Hi, I'm Andres Liu and this is my portfolio!
 
 ## About me
 
