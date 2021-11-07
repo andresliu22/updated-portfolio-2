@@ -42,7 +42,6 @@ I am a Full-stack Web Developer. I'm proactive, self-taught and a quick learner 
 * [MySQL](https://www.mysql.com/)
 * [Dotenv](https://www.npmjs.com/package/dotenv)
 * [Sequelize](https://sequelize.org/)
-* [BcryptJS](https://www.npmjs.com/package/bcryptjs)
 * [Express-Handlebars](https://www.npmjs.com/package/express-handlebars)
 * [Express-Session](https://www.npmjs.com/package/express-session)
 
@@ -58,6 +57,10 @@ I am a Full-stack Web Developer. I'm proactive, self-taught and a quick learner 
 
 * [Linkedin](https://www.linkedin.com/in/andresliu22)
 * [Github](https://github.com/andresliu22)
+
+## License
+
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
