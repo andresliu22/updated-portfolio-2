@@ -6,15 +6,17 @@
 
 ## Site Picture
 
-![Portfolio](./assets/images/snapshot.PNG)
+![Portfolio](./assets/images/site-img.PNG)
 
 ## My Work
 
+* [Haunted Forum](https://github.com/andresliu22/haunted-forum/)
 * [Rank-A-Drank](https://andresliu22.github.io/rank-a-drank/)
+* [Tech Blog](https://github.com/andresliu22/tech-blog/)
+* [Note Taker](https://github.com/andresliu22/note-taker/)
 * [Weather Dashboard](https://andresliu22.github.io/weather-dashboard/)
 * [Day Planner](https://andresliu22.github.io/day-planner/)
 * [Code Quiz](https://andresliu22.github.io/code-quiz/)
-* [Password Generator](https://andresliu22.github.io/password-generator/)
 
 ## Skills
 
